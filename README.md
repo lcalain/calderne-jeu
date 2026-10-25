@@ -5,6 +5,8 @@ et fouille les ruines d'une civilisation éteinte depuis neuf mille ans.*
 
 Un jeu d'exploration et de découverte pour Windows, conçu par Alain.
 
+![L'écran-titre](images/ecran-titre.jpg)
+
 ## Télécharger et jouer
 
 Le jeu est dans les [**Releases**](../../releases/latest) : télécharger le zip
@@ -42,6 +44,18 @@ antiquaire, s'installe dans une anse avec une tente et quelques caisses.
   trouvailles.
 - **Marcher** dans l'anse et la crique, à hauteur d'homme.
 
+| | |
+|:-:|:-:|
+| ![L'anse et le logis](images/l-anse.jpg) | ![La crique et l'Hippocampe](images/la-crique.jpg) |
+| *L'anse et le logis* | *La crique, le ponton et l'Hippocampe* |
+| ![Le Cartulaire](images/le-cartulaire.jpg) | ![La Carte de l'ancêtre](images/la-carte.jpg) |
+| *Le Cartulaire : une plaque rapportée du Récif* | *La Carte de l'ancêtre* |
+| ![Le Cabinet](images/le-cabinet.jpg) | |
+| *Le Cabinet de l'explorateur* | |
+
+La musique, « Calderne », chante le nom de l'île : à la manière de l'hommage de Ravel et de
+Debussy au nom de Haydn (1909), ses lettres deviennent **do – la – mi – ré – mi – ré – sol – mi**.
+
 ## Crédits
 
 - **Le jeu** : l'île, son histoire et ses mystères, Alain. Le code, les modèles 3D, l'interface
@@ -55,5 +69,5 @@ Le détail, avec le texte des licences, est dans l'écran « Crédits » du jeu.
 
 ---
 
-Ce dépôt ne contient que le jeu à télécharger ; son code source n'est pas public. Tous droits
-réservés.
+Ce dépôt ne contient que le jeu à télécharger et ces images ; son code source n'est pas
+public. Tous droits réservés.
