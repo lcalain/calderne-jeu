@@ -10,7 +10,8 @@ Un jeu d'exploration et de découverte pour Windows, conçu par Alain.
 ## Télécharger et jouer
 
 Le jeu est dans les [**Releases**](../../releases/latest) : télécharger le zip
-(`Calderne-0.5.0.zip`, 71 Mo). Il n'y a rien à installer.
+(`Calderne-0.6.0.zip`, 71 Mo). Il n'y a rien à installer.
+Ce qui change d'une version à l'autre est écrit avec chaque version, dans les Releases.
 
 1. Extraire le dossier `Calderne` du zip, où l'on veut (le Bureau, par exemple).
 2. Ouvrir le dossier et lancer **`Calderne.exe`**. Son voisin, `Calderne.pck`, contient le jeu
@@ -40,8 +41,11 @@ antiquaire, s'installe dans une anse avec une tente et quelques caisses.
 - **Rebâtir l'Hippocampe**, une épave de sous-marin renflouée, et le lancer à la mer.
 - **Plonger** vers trois lieux engloutis, et en rapporter des photographies sur plaque et des
   curiosités.
-- **Tenir ses registres** : la Carte de l'ancêtre, le Cartulaire, le Cabinet où l'on expose ses
-  trouvailles.
+- **Commercer avec le comptoir**, qui grandit avec vos découvertes — jusqu'à ce que la Couronne
+  vous écrive.
+- **Tenir ses registres** : la Carte de l'ancêtre ; le Cartulaire, un registre à rubans — les
+  archives, les curiosités, le journal de bord, les comptes et la correspondance ; le Cabinet, où
+  l'on expose ses trouvailles.
 - **Marcher** dans l'anse et la crique, à hauteur d'homme.
 
 | | |
@@ -49,7 +53,7 @@ antiquaire, s'installe dans une anse avec une tente et quelques caisses.
 | ![L'anse et le logis](images/l-anse.jpg) | ![La crique et l'Hippocampe](images/la-crique.jpg) |
 | *L'anse et le logis* | *La crique, le ponton et l'Hippocampe* |
 | ![Le Cartulaire](images/le-cartulaire.jpg) | ![La Carte de l'ancêtre](images/la-carte.jpg) |
-| *Le Cartulaire : une plaque rapportée du Récif* | *La Carte de l'ancêtre* |
+| *Le Cartulaire : le journal de bord de l'explorateur* | *La Carte de l'ancêtre* |
 | ![Le Cabinet](images/le-cabinet.jpg) | |
 | *Le Cabinet de l'explorateur* | |
 
@@ -61,7 +65,8 @@ Debussy au nom de Haydn (1909), ses lettres deviennent **do – la – mi – r�
 - **Le jeu** : l'île, son histoire et ses mystères, Alain. Le code, les modèles 3D, l'interface
   et la musique ont été réalisés avec Claude Code (Anthropic), sous sa direction.
 - **Le moteur** : [Godot Engine](https://godotengine.org), licence MIT.
-- **Les polices** : IM Fell English et EB Garamond, licence SIL Open Font License 1.1.
+- **Les polices** : IM Fell English et EB Garamond, licence SIL Open Font License 1.1 ;
+  Special Elite, licence Apache 2.0.
 - **Les sons et les instruments de la musique** : des enregistrements versés au domaine public
   (CC0) par Kenney, BigSoundBank, des auteurs d'OpenGameArt et Versilian Studios.
 
