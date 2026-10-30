@@ -10,7 +10,7 @@ Un jeu d'exploration et de découverte pour Windows, conçu par Alain.
 ## Télécharger et jouer
 
 Le jeu est dans les [**Releases**](../../releases/latest) : télécharger le zip
-(`Calderne-0.8.0-alpha.zip`, 74 Mo). Il n'y a rien à installer.
+(`Calderne-0.8.1-alpha.zip`, 74 Mo). Il n'y a rien à installer.
 Ce qui change d'une version à l'autre est écrit avec chaque version, dans les Releases.
 
 1. Extraire le dossier `Calderne` du zip, où l'on veut (le Bureau, par exemple).
