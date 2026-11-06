@@ -10,7 +10,7 @@ Un jeu d'exploration et de découverte pour Windows, conçu par Alain.
 ## Télécharger et jouer
 
 Le jeu est dans les [**Releases**](../../releases/latest) : télécharger le zip
-(`Calderne-0.9.0-alpha.zip`, 89 Mo). Il n'y a rien à installer.
+(`Calderne-0.10.0-alpha.zip`, 96 Mo). Il n'y a rien à installer.
 Ce qui change d'une version à l'autre est écrit avec chaque version, dans les Releases.
 
 1. Extraire le dossier `Calderne` du zip, où l'on veut (le Bureau, par exemple).
@@ -18,7 +18,8 @@ Ce qui change d'une version à l'autre est écrit avec chaque version, dans les 
    lui-même : les deux fichiers doivent rester ensemble.
 
 **Il faut** Windows 10 ou 11 (64 bits), et une carte graphique qui gère Vulkan (la plupart
-des cartes de moins de dix ans).
+des cartes de moins de dix ans). Si le jeu manque de fluidité, la qualité se règle dans les
+options.
 
 **Au premier lancement**
 
@@ -46,7 +47,10 @@ antiquaire, s'installe dans une anse avec une tente et quelques caisses.
 - **Tenir ses registres** : la Carte de l'ancêtre ; le Cartulaire, un registre à rubans — les
   archives, les curiosités, le journal de bord, les comptes et la correspondance ; le Cabinet, où
   l'on expose ses trouvailles.
-- **Marcher** dans l'anse et la crique, à hauteur d'homme.
+- **Partir en autochenille** vers les lieux de la terre : les Pierres debout, la Salle sans
+  machines, le Champ de verre.
+- **Explorer l'île à pied**, à hauteur d'homme : de l'anse et de la crique jusqu'au bord du
+  cratère, et jusqu'aux Pierres debout.
 
 | | |
 |:-:|:-:|
@@ -54,8 +58,10 @@ antiquaire, s'installe dans une anse avec une tente et quelques caisses.
 | *L'anse et le logis* | *La crique, le ponton et l'Hippocampe* |
 | ![Le Cartulaire](images/le-cartulaire.jpg) | ![La Carte de l'ancêtre](images/la-carte.jpg) |
 | *Le Cartulaire : le journal de bord de l'explorateur* | *La Carte de l'ancêtre* |
-| ![Le Cabinet](images/le-cabinet.jpg) | |
-| *Le Cabinet de l'explorateur* | |
+| ![L'île, vue de l'intérieur](images/l-ile.jpg) | ![Le défilé des Pierres debout](images/les-pierres.jpg) |
+| *L'anse et la côte, vues de l'intérieur de l'île* | *Le défilé qui mène aux Pierres debout* |
+| ![L'autochenille](images/l-autochenille.jpg) | ![Le Cabinet](images/le-cabinet.jpg) |
+| *L'autochenille, garée au pied du mur du domaine* | *Le Cabinet de l'explorateur* |
 
 La musique, « Calderne », chante le nom de l'île : à la manière de l'hommage de Ravel et de
 Debussy au nom de Haydn (1909), ses lettres deviennent **do – la – mi – ré – mi – ré – sol – mi**.
