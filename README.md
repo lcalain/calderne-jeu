@@ -55,7 +55,7 @@ antiquaire, s'installe dans une anse avec une tente et quelques caisses.
 | | |
 |:-:|:-:|
 | ![L'anse et le logis](images/l-anse.jpg) | ![La crique et l'Hippocampe](images/la-crique.jpg) |
-| *L'anse et le logis* | *La crique, le ponton et l'Hippocampe* |
+| *L'anse, le logis et la Tour du manoir* | *La crique, le ponton et l'Hippocampe* |
 | ![Le Cartulaire](images/le-cartulaire.jpg) | ![La Carte de l'ancêtre](images/la-carte.jpg) |
 | *Le Cartulaire : le journal de bord de l'explorateur* | *La Carte de l'ancêtre* |
 | ![L'île, vue de l'intérieur](images/l-ile.jpg) | ![Le défilé des Pierres debout](images/les-pierres.jpg) |
