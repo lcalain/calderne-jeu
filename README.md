@@ -10,7 +10,7 @@ Un jeu d'exploration et de découverte pour Windows, conçu par Alain.
 ## Télécharger et jouer
 
 Le jeu est dans les [**Releases**](../../releases/latest) : télécharger le zip
-(`Calderne-0.14.1-alpha.zip`, 131 Mo). Il n'y a rien à installer.
+(`Calderne-0.14.2-alpha.zip`, 131 Mo). Il n'y a rien à installer.
 Ce qui change d'une version à l'autre est écrit avec chaque version, dans les Releases.
 
 1. Extraire le dossier `Calderne` du zip, où l'on veut (le Bureau, par exemple).
@@ -18,8 +18,8 @@ Ce qui change d'une version à l'autre est écrit avec chaque version, dans les 
    lui-même : les deux fichiers doivent rester ensemble.
 
 **Il faut** Windows 10 ou 11 (64 bits), et une carte graphique qui gère Vulkan (la plupart
-des cartes de moins de dix ans). Si le jeu manque de fluidité, la qualité se règle dans les
-options.
+des cartes de moins de dix ans). Au premier lancement, le jeu choisit lui-même la plus belle qualité
+graphique qui reste fluide sur la machine ; elle se change dans les options.
 
 **Au premier lancement**
 
